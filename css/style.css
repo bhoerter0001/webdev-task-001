@@ -1,0 +1,16 @@
+html {
+    background-color: black;
+}
+
+h1 {
+    color: rgb(1, 250, 229);
+    text-align: center;
+}
+
+strong {
+    color: rgb(222, 51, 228);
+}
+
+body {
+    color: rgb(255, 15, 107);
+}
